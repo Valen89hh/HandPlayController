@@ -48,7 +48,7 @@ Este proyecto de visión artificial basada en una aplicación de escritorio desa
 
 **2.** Navega hasta el directorio del proyecto:
 
-    cd HandPlayContrller
+    cd HandPlayController
 
 **3.** Crea un entorno virtual:
 
